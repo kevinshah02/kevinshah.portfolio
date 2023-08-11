@@ -10,7 +10,7 @@
 :root {
   --first-color: #75c1f8;
   --second-color: #0e2431;
-  --third-color: #ffffff;
+  --third-color: #ea0202;
   --fourth-color: #04142e;
 }
 
@@ -141,8 +141,8 @@ img {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: #fff;
-  box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
+  background-color: #bbd2f7;
+  box-shadow: 0 1px 4px rgb(255, 255, 255);
 }
 
 /*===== NAV =====*/
